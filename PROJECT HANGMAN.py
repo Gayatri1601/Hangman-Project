@@ -1,4 +1,4 @@
-DAY 7 PROJECT - HANGMAN
+# PROJECT - HANGMAN
 
 import random
 
